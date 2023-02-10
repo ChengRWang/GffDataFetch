@@ -1,1 +1,2 @@
 chr1.rev.vcf filter=lfs diff=lfs merge=lfs -text
+chr1.vcf filter=lfs diff=lfs merge=lfs -text
